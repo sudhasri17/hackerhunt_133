@@ -18,9 +18,12 @@ import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import newshunntcommunity.co.newshuntcommunity.app.R;
+
 
 public class MainActivity extends ActionBarActivity
-        implements NavigationDrawerFragment.NavigationDrawerCallbacks {
+        implements NavigationDrawerFragment.NavigationDrawerCallbacks
+{
 
     /**
      * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
